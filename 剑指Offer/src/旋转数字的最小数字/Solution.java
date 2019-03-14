@@ -13,6 +13,6 @@ public class Solution {
         		result = array[i];
         		break;
         	}
-    	return 0;
+    	return result;
     }
 }
